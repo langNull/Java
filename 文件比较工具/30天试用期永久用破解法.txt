@@ -1,0 +1,2 @@
+找到这个目录：\AppData\Roaming\Scooter Software\Beyond Compare 3，把里面的文件删掉。
+又可以用30天了
